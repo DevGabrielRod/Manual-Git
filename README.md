@@ -14,7 +14,7 @@
 
 - ```git reflog``` -> Mostra as versôes adicionadas.
 
-## avançado
+<h2 aling="center">Avançado</h2>
 
 - ```git branch``` -> Mostra os branchs disponíveis;
 
@@ -46,4 +46,4 @@
 
 7.*MERGIAR(UNIR) O CÓDIGO DA BRANCH TEMPORÁRIA COM A BRANCH PRINCIPAL(DEPOIS DE TESTAR)*;
 
-8.*GIT PUSH DA BRANCH PRINCIPAL*
+8.*```git push``` DA BRANCH PRINCIPAL*
