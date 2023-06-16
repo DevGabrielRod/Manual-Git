@@ -20,7 +20,7 @@
 - ```git reflog``` -> Mostra as versôes adicionadas.
 
 
-##Avançado
+## Avançado
 
 - ```git branch``` -> Mostra os branchs disponíveis;
 
